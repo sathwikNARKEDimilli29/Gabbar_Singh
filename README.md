@@ -1,4 +1,4 @@
-# Gabbar_Singh
+# Project Gabbar_Singh
 
 In our innovative project, we merge Motoko and React to reshape the NFT landscape. We're developing a unique crypto token with wallet and faucet functionalities, providing an intuitive user experience through React and secure transactions via Motoko smart contracts. This token powers a dynamic NFT marketplace, simplifying buying and selling for artists and collectors, marking a pivotal moment in blockchain-based digital assets.
 
